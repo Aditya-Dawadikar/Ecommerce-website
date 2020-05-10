@@ -134,25 +134,14 @@ body{
 	font-size: 30px;
 }
 
-.footer-sitemap .social{
-	display:flex;
-	transform: translateX(80px);
-}
-
-.footer-sitemap .social li{
-	border-radius:10%;
-	background-color:white; 
-}
-
-.footer-sitemap .social li:hover{
-	transform: scale(1.2);
+.footer-sitemap .social-icon img:hover{
+	transform: scale(1.5);
 }
 
 .footer-foot:hover{
 	color:#686b6b;
 	transform:scale(1.2);
 }
-
 
 .body-content .flag{
 	background-color:yellow;
@@ -228,6 +217,54 @@ body{
 
 #img12-earphone{
 	background-image: url("D:/my projects/E commerce/images/ear phone/12.jpg");
+}
+
+#img1-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/1.jpg");
+}
+
+#img2-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/2.jpg");
+}
+
+#img3-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/3.jpg");
+}
+
+#img4-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/4.jpg");
+}
+
+#img5-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/5.jpg");
+}
+
+#img6-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/6.jpg");
+}
+
+#img7-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/7.jpg");
+}
+
+#img8-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/8.jpg");
+}
+
+#img9-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/9.jpg");
+}
+
+#img10-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/10.jpg");
+}
+
+#img11-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/11.jpg");
+}
+
+#img12-headphone{
+	background-image: url("D:/my projects/E commerce/images/head phone/12.jpg");
 }
 
 .body-content .row .col .individual .img{
