@@ -56,7 +56,7 @@ body{
 }
 
 .menu-ul-li a:hover{
-	color:yellow;
+	color:black;
 }
 
 .cart,.search,.account i{
@@ -182,20 +182,52 @@ body{
 	margin-bottom:20px;
 }
 
-#img1{
+#img1-earphone{
 	background-image: url("D:/my projects/E commerce/images/ear phone/1.jpg");
 }
 
-#img2{
+#img2-earphone{
 	background-image: url("D:/my projects/E commerce/images/ear phone/2.jpg");
 }
 
-#img3{
+#img3-earphone{
 	background-image: url("D:/my projects/E commerce/images/ear phone/3.jpg");
 }
 
-#img4{
+#img4-earphone{
 	background-image: url("D:/my projects/E commerce/images/ear phone/4.jpg");
+}
+
+#img5-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/5.jpg");
+}
+
+#img6-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/6.jpg");
+}
+
+#img7-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/7.jpg");
+}
+
+#img8-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/8.jpg");
+}
+
+#img9-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/9.jpg");
+}
+
+#img10-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/10.jpg");
+}
+
+#img11-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/11.jpg");
+}
+
+#img12-earphone{
+	background-image: url("D:/my projects/E commerce/images/ear phone/12.jpg");
 }
 
 .body-content .row .col .individual .img{
@@ -251,7 +283,17 @@ body{
 	transform: scale(2);
 }
 
+.banner{
+	height:100px;
+}
 
+#b1{
+	background-color:pink; 
+}
+
+#b2{
+	background-color:#4bdafa;
+}
 
 
 
